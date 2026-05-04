@@ -1,2 +1,1 @@
-Project setup initialized. Brainstorming phases underway...
-Note to self - DO NOT LEAVE THIS HERE: CTF{0s1nt_tr4ck3r_f0und_m3}
+Nothing to see here.
